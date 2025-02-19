@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hato-poppo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hato-poppo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hato-poppo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hato-poppo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hato-poppo&theme=default&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=hato-poppo&theme=flat)
